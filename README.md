@@ -1,5 +1,6 @@
 # P2P Messenger
 
+<img width="800" height="800" alt="ChatGPT Image 30 июн  2026 г , 08_12_58" src="https://github.com/user-attachments/assets/61a53507-c055-408d-a27b-839d33d3b612" />
 
 
 Мобильное приложение для обмена сообщениями между устройствами Android с использованием технологии Peer-to-Peer соединения без применения центрального сервера передачи данных.
